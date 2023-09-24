@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/MusicVerse/static/css/main.32927b4e.css",
+    "main.js": "/MusicVerse/static/js/main.954ca070.js",
+    "index.html": "/MusicVerse/index.html",
+    "main.32927b4e.css.map": "/MusicVerse/static/css/main.32927b4e.css.map",
+    "main.954ca070.js.map": "/MusicVerse/static/js/main.954ca070.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.32927b4e.css",
+    "static/js/main.954ca070.js"
+  ]
+}
