@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/MusicVerse/static/css/main.32927b4e.css",
-    "main.js": "/MusicVerse/static/js/main.954ca070.js",
+    "main.css": "/MusicVerse/static/css/main.e8616877.css",
+    "main.js": "/MusicVerse/static/js/main.2bbd4870.js",
     "index.html": "/MusicVerse/index.html",
-    "main.32927b4e.css.map": "/MusicVerse/static/css/main.32927b4e.css.map",
-    "main.954ca070.js.map": "/MusicVerse/static/js/main.954ca070.js.map"
+    "main.e8616877.css.map": "/MusicVerse/static/css/main.e8616877.css.map",
+    "main.2bbd4870.js.map": "/MusicVerse/static/js/main.2bbd4870.js.map"
   },
   "entrypoints": [
-    "static/css/main.32927b4e.css",
-    "static/js/main.954ca070.js"
+    "static/css/main.e8616877.css",
+    "static/js/main.2bbd4870.js"
   ]
 }
