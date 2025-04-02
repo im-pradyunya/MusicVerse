@@ -49,7 +49,8 @@ const Bollywoods=[
 const TollyWoods=[
     {
         imgsrc:"https://timesofindia.indiatimes.com/photo/msid-80481724,imgsize-121580.cms" ,
-        songsrc:"https://koshalworld.com/files/download/id/35280",
+        songsrc:"Vaathi Coming(KoshalWorld.Com).mp3
+",
         title:"Vaati coming"
 
     },
